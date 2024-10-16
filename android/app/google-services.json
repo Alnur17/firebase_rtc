@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861013461544",
+    "project_id": "fir-rtc-80a65",
+    "storage_bucket": "fir-rtc-80a65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861013461544:android:0c9792450e4086f4bac31d",
+        "android_client_info": {
+          "package_name": "com.example.firebase_rtc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_BMotGsh6UZKgys48o2ig0bkCViZMZDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
